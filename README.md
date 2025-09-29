@@ -116,4 +116,4 @@ ssh -T git@github.com
 
 ## الموقع المباشر
 
-[اضغط هنا لعرض الأوامر مباشرة بدون شرح](https://example.com)
+[اضغط هنا لعرض الأوامر مباشرة بدون شرح](https://git-ease-five.vercel.app/)
